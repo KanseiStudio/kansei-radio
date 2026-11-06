@@ -1,0 +1,90 @@
+{
+  "name": "Kansei Radio",
+  "epoch": "2026-11-06T00:00:00Z",
+  "tracks": [
+    {
+      "file": "tracks/01-superfici.mp3",
+      "title": "Superfici",
+      "artist": "Kansei Radio",
+      "info": "Re dorico · 72 BPM",
+      "duration": 210.051
+    },
+    {
+      "file": "tracks/02-porta-sul-futuro.mp3",
+      "title": "Porta sul futuro",
+      "artist": "Kansei Radio",
+      "info": "Fa lidio · 68 BPM",
+      "duration": 247.04
+    },
+    {
+      "file": "tracks/03-luce-lenta.mp3",
+      "title": "Luce lenta",
+      "artist": "Kansei Radio",
+      "info": "La eolio · 66 BPM",
+      "duration": 224.026
+    },
+    {
+      "file": "tracks/04-sala-3.mp3",
+      "title": "Sala 3",
+      "artist": "Kansei Radio",
+      "info": "Re dorico · 78 BPM",
+      "duration": 261.042
+    },
+    {
+      "file": "tracks/05-atelier.mp3",
+      "title": "Atelier",
+      "artist": "Kansei Radio",
+      "info": "Mi frigio · 74 BPM",
+      "duration": 238.028
+    },
+    {
+      "file": "tracks/06-riflesso.mp3",
+      "title": "Riflesso",
+      "artist": "Kansei Radio",
+      "info": "Fa lidio · 82 BPM",
+      "duration": 215.04
+    },
+    {
+      "file": "tracks/07-soglia.mp3",
+      "title": "Soglia",
+      "artist": "Kansei Radio",
+      "info": "La eolio · 70 BPM",
+      "duration": 252.029
+    },
+    {
+      "file": "tracks/08-campo-aperto.mp3",
+      "title": "Campo aperto",
+      "artist": "Kansei Radio",
+      "info": "Fa lidio · 76 BPM",
+      "duration": 229.042
+    },
+    {
+      "file": "tracks/09-notturno.mp3",
+      "title": "Notturno",
+      "artist": "Kansei Radio",
+      "info": "Mi frigio · 66 BPM",
+      "duration": 266.031
+    },
+    {
+      "file": "tracks/10-materia.mp3",
+      "title": "Materia",
+      "artist": "Kansei Radio",
+      "info": "Re dorico · 84 BPM",
+      "duration": 243.043
+    },
+    {
+      "file": "tracks/11-segnale.mp3",
+      "title": "Segnale",
+      "artist": "Kansei Radio",
+      "info": "La eolio · 80 BPM",
+      "duration": 220.029
+    },
+    {
+      "file": "tracks/12-ritorno.mp3",
+      "title": "Ritorno",
+      "artist": "Kansei Radio",
+      "info": "Fa lidio · 70 BPM",
+      "duration": 257.045
+    }
+  ]
+}
