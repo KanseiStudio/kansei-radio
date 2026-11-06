@@ -36,6 +36,14 @@ In alternativa al repository: `npm i -g vercel`, poi da questa cartella `vercel 
 Cambiando i brani cambia la durata totale del loop, quindi chi ascolta in quel momento
 potrebbe saltare a un altro punto al successivo riallineamento. È normale.
 
+### Rigenerare i brani
+
+I 12 brani sono sintetizzati da `tools/generatore/` (Python con numpy e scipy, più ffmpeg).
+Ogni brano è una funzione in `tracks.py` (genere, BPM, tonalità, struttura).
+`python3 tools/generatore/render.py 1 2 3` genera i brani 1, 2 e 3 in `tools/generatore/out/`,
+a −15 LUFS, in MP3 a 128 kbps con i tag. Copia gli MP3 in `tracks/` con un nome nuovo
+(es. `-v3`) e rilancia `genera_playlist.py`.
+
 Per far ripartire il palinsesto dal primo brano a un'ora precisa, cambia `epoch` in
 `playlist.json` (formato ISO, es. `"2026-12-01T00:00:00Z"`).
 
